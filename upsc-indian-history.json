@@ -1,0 +1,73 @@
+[
+    {
+      "id": "1",
+      "question": "Who was the founder of the Maurya Empire?\nमौर्य साम्राज्य के संस्थापक कौन थे?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Bimbisara"],
+      "correctAnswer": "Chandragupta Maurya",
+      "explanation": "Chandragupta Maurya established the Maurya Empire with the help of Chanakya."
+    },
+    {
+      "id": "2",
+      "question": "Kalinga war was fought in which year?\nकलिंग युद्ध किस वर्ष लड़ा गया था?",
+      "options": ["261 BCE", "185 BCE", "100 CE", "78 CE"],
+      "correctAnswer": "261 BCE",
+      "explanation": "Ashoka fought the Kalinga war in 261 BCE and later adopted Buddhism."
+    },
+    {
+      "id": "3",
+      "question": "Which text is associated with the teachings of Chanakya?\nकौन सा ग्रंथ चाणक्य की शिक्षाओं से संबंधित है?",
+      "options": ["Arthashastra", "Mahabharata", "Ramayana", "Vedas"],
+      "correctAnswer": "Arthashastra",
+      "explanation": "Chanakya wrote Arthashastra, a treatise on statecraft, economic policy, and military strategy."
+    },
+    {
+      "id": "4",
+      "question": "Who was the most famous ruler of the Gupta dynasty?\nगुप्त वंश का सबसे प्रसिद्ध शासक कौन था?",
+      "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta"],
+      "correctAnswer": "Samudragupta",
+      "explanation": "Samudragupta was known as the Napoleon of India for his military conquests."
+    },
+    {
+      "id": "5",
+      "question": "What was the capital of Magadh empire?\nमगध साम्राज्य की राजधानी क्या थी?",
+      "options": ["Pataliputra", "Taxila", "Ujjain", "Varanasi"],
+      "correctAnswer": "Pataliputra",
+      "explanation": "Pataliputra (modern Patna) was the capital of Magadh empire."
+    },
+    {
+      "id": "6",
+      "question": "Who was the founder of the Gupta Empire?\nगुप्त साम्राज्य के संस्थापक कौन थे?",
+      "options": ["Chandragupta I", "Samudragupta", "Chandragupta II", "Skandagupta"],
+      "correctAnswer": "Chandragupta I",
+      "explanation": "Chandragupta I founded the Gupta Empire in 320 CE."
+    },
+    {
+      "id": "7",
+      "question": "Who introduced Buddhism to Sri Lanka?\nश्रीलंका में बौद्ध धर्म किसने पहुँचाया?",
+      "options": ["Ashoka", "Mahinda", "Buddha", "Ananda"],
+      "correctAnswer": "Mahinda",
+      "explanation": "Mahinda, son of Ashoka, introduced Buddhism to Sri Lanka."
+    },
+    {
+      "id": "8",
+      "question": "Which king embraced Jainism at the end of his life?\nकिस राजा ने अपने जीवन के अंत में जैन धर्म को अपनाया?",
+      "options": ["Chandragupta Maurya", "Ashoka", "Bindusara", "Harshavardhana"],
+      "correctAnswer": "Chandragupta Maurya",
+      "explanation": "Chandragupta Maurya embraced Jainism and went to Karnataka."
+    },
+    {
+      "id": "9",
+      "question": "The Nalanda University was established during whose reign?\nनालंदा विश्वविद्यालय किसके शासनकाल में स्थापित हुआ था?",
+      "options": ["Kumaragupta I", "Samudragupta", "Harshavardhana", "Ashoka"],
+      "correctAnswer": "Kumaragupta I",
+      "explanation": "Nalanda University was established by Kumaragupta I in the 5th century CE."
+    },
+    {
+      "id": "10",
+      "question": "Which language was used in Ashoka's inscriptions?\nअशोक के शिलालेखों में कौन सी भाषा प्रयुक्त हुई थी?",
+      "options": ["Pali", "Sanskrit", "Prakrit", "Hindi"],
+      "correctAnswer": "Prakrit",
+      "explanation": "Ashoka's inscriptions were primarily written in Prakrit using Brahmi script."
+    }
+  ]
+  
